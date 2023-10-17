@@ -7,4 +7,4 @@
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasamichiKanakubo&show_icons=true)
  
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasamichiKanakubo&layout=compact&theme=tokyonight)](https://github.com/MasamichiKanakubo/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasamichiKanakubo&layout=compact&theme=white)](https://github.com/MasamichiKanakubo/)
