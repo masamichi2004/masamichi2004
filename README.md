@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 [![Twitter: sabacantootofu](https://img.shields.io/twitter/follow/sabacantootofu?style=social)](https://twitter.com/sabacantootofu)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=contiki9&left_color=gray&right_color=blue)
  
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,js,react,mongodb,postgresql,graphql)](https://skillicons.dev)
  
