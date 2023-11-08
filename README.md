@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### Information
+- age:19Y
+- Ritsumeikan University:Computer Science
+- Plaid, Inc.:General Customer Engineer
+
+
 [![Twitter: sabacantootofu](https://img.shields.io/twitter/follow/sabacantootofu?style=social)](https://twitter.com/sabacantootofu)
  
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,js,nodejs,react,kubernetes,docker,mongodb,redis)](https://skillicons.dev)
