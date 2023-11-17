@@ -14,7 +14,7 @@
 
 <p align="left">
   <a href="https://github.com/MasamichiKanakubo/MasamichiKanakubo/">
-    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="MasamichiKanakubo" />
+    <img src="https://komarev.com/ghpvc/?username=MasamichiKanakubo" alt="MasamichiKanakubo" />
   </a>
   <a href="http://twitter.com/yutkat">
     <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
