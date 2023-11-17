@@ -31,7 +31,7 @@
   <a href="http://qiita.com/yutkat">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
   </a>
-  <//qiita.com/yutkat">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" />
+  <//qiita.com/masamichikanakubo">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/masamichikanakubo/contributions.svg" />
   </a>
 </p>
