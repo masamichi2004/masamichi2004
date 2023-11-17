@@ -19,7 +19,7 @@
   <a href="http://twitter.com/sabacantootofu">
     <img height="20" src="https://img.shields.io/twitter/follow/sabacantootofu?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <a href="https://github.com/yutkat">
+  <a href="https://github.com/MasamichiKanakubo">
     <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
   </a>
   <a href="https://www.reddit.com/user/yutkat">
