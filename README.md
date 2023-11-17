@@ -13,8 +13,8 @@
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasamichiKanakubo&layout=compact&theme=white)](https://github.com/MasamichiKanakubo/)
 
 <p align="left">
-  <a href="https://github.com/yutkat/yutkat/">
-    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
+  <a href="https://github.com/MasamichiKanakubo/MasamichiKanakubo/">
+    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="MasamichiKanakubo" />
   </a>
   <a href="http://twitter.com/yutkat">
     <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
