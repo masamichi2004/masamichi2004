@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ### Information
-- age:19Y
-- Ritsumeikan University:Computer Science
-- Plaid, Inc.:General Customer Engineer
+- age:19
+- Major: Computer Science
+- Job: Customer Engineer
 
 
 [![Twitter: sabacantootofu](https://img.shields.io/twitter/follow/sabacantootofu?style=social)](https://twitter.com/sabacantootofu)
