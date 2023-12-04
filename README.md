@@ -6,7 +6,7 @@
 - Job: Customer Engineer
 
 
-[![Twitter: sabacantootofu](https://img.shields.io/twitter/follow/sabacantootofu?style=social)](https://twitter.com/sabacantootofu)
+[![Twitter: ma_kanakubo](https://img.shields.io/twitter/follow/ma_kanakubo?style=social)](https://twitter.com/ma_kanakubo)
  
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,nodejs,react,kubernetes,docker,mongodb,redis)](https://skillicons.dev)
  
