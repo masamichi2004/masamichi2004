@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ### Information
-- age:19
+- Name: Masamichi Kanakubo
+- Univ: Ritsumeikan University
+- Age: 19
 - Major: Computer Science
 - Job: Customer Engineer
 
