@@ -2,9 +2,9 @@
 
 ### Information
 - Name: Masamichi Kanakubo
-- Univ: Ritsumeikan University ISE
+- Univ: Ritsumeikan University
 - Age: 19
-- Major: Computer Science
+- Major: Information Science/Technology
 - Job: Solution Engineer
 
 
