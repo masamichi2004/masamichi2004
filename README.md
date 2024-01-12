@@ -5,12 +5,12 @@
 - Univ: Ritsumeikan University ISE
 - Age: 19
 - Major: Computer Science
-- Job: Customer Engineer
+- Job: Solution Engineer
 
 
 [![Twitter: ma_kanakubo](https://img.shields.io/twitter/follow/ma_kanakubo?style=social)](https://twitter.com/ma_kanakubo)
  
-[![My Skills](https://skillicons.dev/icons?i=python,ts,js,nodejs,vue,docker,kubernetes,mongodb,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,ts,js,nodejs,vue,kubernetes,pstogresql,mongodb,graphql)](https://skillicons.dev)
  
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasamichiKanakubo&layout=compact&theme=white)](https://github.com/MasamichiKanakubo/)
 
