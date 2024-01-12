@@ -10,7 +10,7 @@
 
 [![Twitter: ma_kanakubo](https://img.shields.io/twitter/follow/ma_kanakubo?style=social)](https://twitter.com/ma_kanakubo)
  
-[![My Skills](https://skillicons.dev/icons?i=python,ts,js,nodejs,vue,kubernetes,pstogresql,mongodb,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,ts,js,nodejs,vue,kubernetes,postgresql,mongodb,graphql)](https://skillicons.dev)
  
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasamichiKanakubo&layout=compact&theme=white)](https://github.com/MasamichiKanakubo/)
 
