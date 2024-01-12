@@ -12,7 +12,7 @@
  
 [![My Skills](https://skillicons.dev/icons?i=python,ts,js,nodejs,vue,kubernetes,postgresql,mongodb,graphql)](https://skillicons.dev)
  
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasamichiKanakubo&layout=compact&theme=white)](https://github.com/MasamichiKanakubo/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasamichiKanakubo&layout=compact&theme=tokyonight)](https://github.com/MasamichiKanakubo/)
 
 <p align="left">
   <a href="https://github.com/MasamichiKanakubo/MasamichiKanakubo/">
