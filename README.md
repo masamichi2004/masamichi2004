@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Information
+### Self-Introduction
 - Name: Masamichi Kanakubo
 - Univ: Ritsumeikan University
 - Age: 19
