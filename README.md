@@ -5,7 +5,7 @@
 - Univ: Ritsumeikan University
 - Age: 19
 - Major: Information Science/Technology
-- Job: Solution Engineer
+- Job: Solution Engineer (Plaid, inc)
 
 
 [![Twitter: ma_kanakubo](https://img.shields.io/twitter/follow/ma_kanakubo?style=social)](https://twitter.com/ma_kanakubo)
