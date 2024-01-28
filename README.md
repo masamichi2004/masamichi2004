@@ -1,9 +1,10 @@
-### Hi there 
+### Hi there
 
 ### Self-introduction
 - Name: Masamichi Kanakubo
-- Univ: Ritsumeikan University
 - Age: 19
+- Nat: Japan
+- Univ: Ritsumeikan University
 - Major: Information Science/Technology
 - Job: Solution Engineer (Plaid, inc)
 
