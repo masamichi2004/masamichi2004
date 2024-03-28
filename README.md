@@ -6,7 +6,7 @@
 - Nat: Japan
 - Univ: Ritsumeikan University
 - Major: Information Engineering
-- Job: Software Engineer (Helpfeel, inc)
+- Job: Software Engineer at Helpfeel, inc
 
 [![Twitter: ma_kanakubo](https://img.shields.io/twitter/follow/ma_kanakubo?style=social)](https://twitter.com/ma_kanakubo)
 
