@@ -1,6 +1,6 @@
-### Hi there, I'm Masamichi Kanakubo.
+# Hi there, I'm Masamichi Kanakubo😎.
 
-### Self-introduction
+## About Me
 - Name: Masamichi Kanakubo
 - Age: 19
 - Nat: Japan
@@ -8,22 +8,30 @@
 - Major: Information Engineering
 - Job: Software Engineer at Helpfeel, inc
 
-[![Twitter: ma_kanakubo](https://img.shields.io/twitter/follow/ma_kanakubo?style=social)](https://twitter.com/ma_kanakubo)
-
-### Tech-stack 
-[![My Skills](https://skillicons.dev/icons?i=python,js,graphql,mongodb,mysql,gcp,githubactions)](https://skillicons.dev)
- 
+## Most Used Languages
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasamichiKanakubo&layout=compact&theme=tokyonight)](https://github.com/MasamichiKanakubo/)
 
+## Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=python,nodejs,js,html,css)](https://skillicons.dev)
+
+## Frameworks and Libraries
+[![My Skills](https://skillicons.dev/icons?i=django,fastapi,express,vue,bootstrap)](https://skillicons.dev)
+
+## DB and Dev Tools
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,graphql,docker,gcp,git,github,githubactions,vscode,postman)](https://skillicons.dev)
+
+## Contact Me
+[![My Skills](https://skillicons.dev/icons?i=twitter,linkedin,gmail)](https://skillicons.dev)
+ 
 <p align="left">
   <a href="https://github.com/MasamichiKanakubo/MasamichiKanakubo/">
     <img src="https://komarev.com/ghpvc/?username=MasamichiKanakubo" alt="MasamichiKanakubo" />
   </a>
-  <a href="http://twitter.com/sabacantootofu">
-    <img height="20" src="https://img.shields.io/twitter/follow/sabacantootofu?label=Twitter&logo=twitter&style=flat" />
+  <a href="https://twitter.com/ma_kanakubo">
+    <img height="20" src="https://img.shields.io/twitter/follow/ma_kanakubo?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/MasamichiKanakubo">
-    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/MasamichiKanakubo?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/MasamichiKanakubo">
     <img height="20" src="https://qiita-badge.apiapi.app/s/MasamichiKanakubo/posts.svg" />
