@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,nodejs,js,html,css)](https://skillicons.dev)
 
 ## Frameworks and Libraries
-[![My Skills](https://skillicons.dev/icons?theme=light&perline=8&i=django,fastapi,express,vite,vitest,vue,vuetify,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?theme=light&perline=8&i=django,fastapi,express,vue,pinia,bootstrap)](https://skillicons.dev)
 
 ## Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,graphql)](https://skillicons.dev)
