@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?theme=light&perline=8&i=django,fastapi,express,vue,bootstrap)](https://skillicons.dev)
 
 ## DB and Dev Tools
-[![My Skills](https://skillicons.dev/icons?theme=light&perline=8&i=mysql,mongodb,graphql,docker,gcp,git,github,githubactions,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,graphql,docker,gcp,git,github,githubactions,vscode,postman)](https://skillicons.dev)
 
 ## Contact Me
 [![My Skills](https://skillicons.dev/icons?i=twitter,linkedin,gmail)](https://skillicons.dev)
