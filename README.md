@@ -17,8 +17,11 @@
 ## Frameworks and Libraries
 [![My Skills](https://skillicons.dev/icons?theme=light&perline=8&i=django,fastapi,express,vite,vitest,vue,vuetify,bootstrap)](https://skillicons.dev)
 
-## DB and Dev Tools
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,graphql,docker,gcp,git,github,githubactions,vscode,postman)](https://skillicons.dev)
+## Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,graphql)](https://skillicons.dev)
+
+## Dev Tools
+[![My Skills](https://skillicons.dev/icons?i=docker,gcp,git,github,githubactions,vscode,postma)](https://skillicons.dev)
 
 ## Contact Me
 [![My Skills](https://skillicons.dev/icons?i=twitter,linkedin,gmail)](https://skillicons.dev)
