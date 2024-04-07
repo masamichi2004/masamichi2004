@@ -11,17 +11,8 @@
 ## Most Used Languages
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasamichiKanakubo&layout=compact&theme=tokyonight)](https://github.com/MasamichiKanakubo/)
 
-## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=python,nodejs,js,html,css)](https://skillicons.dev)
-
-## Frameworks and Libraries
-[![My Skills](https://skillicons.dev/icons?theme=light&perline=8&i=django,fastapi,express,vue,pinia,bootstrap)](https://skillicons.dev)
-
-## Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,graphql)](https://skillicons.dev)
-
-## Dev Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,gcp,git,github,githubactions,vscode,postma)](https://skillicons.dev)
+## Tech-stack
+[![My Skills](https://skillicons.dev/icons?theme=light&perline=8&i=python,django,fastapi,nodejs,express,vue)](https://skillicons.dev)
 
 ## Contact Me
 [![My Skills](https://skillicons.dev/icons?i=twitter,linkedin,gmail)](https://skillicons.dev)
