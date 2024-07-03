@@ -6,7 +6,7 @@
 - Nat: Japan
 - Univ: Ritsumeikan University
 - Major: Information Engineering
-- Job: Software Developer at Sansan, inc
+- Job: Backend Developer
 
 ## Most Used Languages
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasamichiKanakubo&layout=compact&theme=tokyonight)](https://github.com/MasamichiKanakubo/)
