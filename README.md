@@ -12,7 +12,7 @@
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasamichiKanakubo&layout=compact&theme=tokyonight)](https://github.com/MasamichiKanakubo/)
 
 ## Tech-stack
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,nestjs,nextjs,graphql,gcp,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,graphql,gcp,mongodb)](https://skillicons.dev)
 
 ## Contact Me
 [![My Skills](https://skillicons.dev/icons?i=twitter,linkedin,gmail)](https://skillicons.dev)
